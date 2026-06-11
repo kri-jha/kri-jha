@@ -17,5 +17,11 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=kri-jha&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📈 Activity Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=kri-jha&theme=tokyo-night)
+
+
+## 🚀 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/krishnajha106)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
