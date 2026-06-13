@@ -1,11 +1,15 @@
 # 💫 About Me:
-🔭 **Current Focus:** Engineering intelligent web ecosystems — building **MediParse AI** and architecting **Grind Ace Zen**.
-👯 **Collaboration:** Open to mid-to-senior level contributions in Full-Stack MERN applications and production-ready AI integrations.
-🤝 **Seeking Expertise:** Looking to connect with backend engineers and DevOps practitioners focused on System Design, microservices, and cloud deployments.
-🌱 **Deep Diving:** Currently mastering advanced Data Structures & Algorithms, building high-throughput RESTful APIs, and exploring AI-assisted development workflows.
-💬 **Let's Talk About:** Core Java, Modern JavaScript/TypeScript, React architecture, Node.js scalability, MongoDB indexing, and effective Prompt Engineering.
-⚡ **Milestones:** Solved 250+ algorithmic challenges and actively built prototypes across 4+ fast-paced hackathons.
+🔭 Working on: MediParse AI and Grind Ace Zen.
 
+👯 Seeking: Collaboration on Full-Stack MERN and AI projects.
+
+🤝 Looking for: Mentorship in System Design and cloud deployment.
+
+🌱 Learning: Advanced DSA, scalable REST APIs, and AI integration.
+
+💬 Ask me about: Java, JavaScript, React, Node.js, and Prompt Engineering.
+
+⚡ Milestones: 250+ LeetCode problems solved and 4+ hackathons completed.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krishna-jha-4b51472a7/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@vickyjha1232) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jhavicky235@gmail.com) 
