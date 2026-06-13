@@ -20,7 +20,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kri-jha&show_icons=true&theme=dark)<br/>
 ![](https://streak-stats.demolab.com/?user=kri-jha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kri-jha&layout=compact&theme=dark)
+
 
 
 ### 🔝 Top Contributed Repo
