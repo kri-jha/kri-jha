@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on MediParse AI and Grind Ace Zen<br>👯 I’m looking to collaborate on Full-Stack MERN and AI-based projects<br>🤝 I’m looking for help with advanced backend, system design, and real-world deployment<br>🌱 I’m currently learning DSA, MERN stack, REST APIs, and AI-assisted development<br>💬 Ask me about Java, JavaScript, React, Node.js, MongoDB, DSA, and Prompt Engineering<br>⚡ Fun fact I have solved 250+ coding problems and participated in 4+ hackathons
+🔭 **Current Focus:** Engineering intelligent web ecosystems — building **MediParse AI** and architecting **Grind Ace Zen**.
+👯 **Collaboration:** Open to mid-to-senior level contributions in Full-Stack MERN applications and production-ready AI integrations.
+🤝 **Seeking Expertise:** Looking to connect with backend engineers and DevOps practitioners focused on System Design, microservices, and cloud deployments.
+🌱 **Deep Diving:** Currently mastering advanced Data Structures & Algorithms, building high-throughput RESTful APIs, and exploring AI-assisted development workflows.
+💬 **Let's Talk About:** Core Java, Modern JavaScript/TypeScript, React architecture, Node.js scalability, MongoDB indexing, and effective Prompt Engineering.
+⚡ **Milestones:** Solved 250+ algorithmic challenges and actively built prototypes across 4+ fast-paced hackathons.
 
 
 ## 🌐 Socials:
