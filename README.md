@@ -1,4 +1,4 @@
-# About Me
+# About Me :
 🔭 Working on: MediParse AI and REGAIN.
 
 👯 Seeking: Collaboration on Full-Stack MERN and AI projects.
